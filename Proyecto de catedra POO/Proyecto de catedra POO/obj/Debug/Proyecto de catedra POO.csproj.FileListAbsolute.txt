@@ -1,0 +1,14 @@
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\bin\Debug\Proyecto de catedra POO.exe.config
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\bin\Debug\Proyecto de catedra POO.exe
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\bin\Debug\Proyecto de catedra POO.pdb
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.csproj.AssemblyReference.cache
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto_de_catedra_POO.FormMain.resources
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto_de_catedra_POO.Properties.Resources.resources
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.csproj.GenerateResource.cache
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.exe
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.pdb
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto de catedra POO.exe.config
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto_de_catedra_POO.FormListado.resources
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto_de_catedra_POO.FormRegistro.resources
+C:\Users\Fabio Henriquez\Desktop\Proyecto de catedra POO\Proyecto de catedra POO\obj\Debug\Proyecto_de_catedra_POO.FormCajero.resources
